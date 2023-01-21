@@ -2,9 +2,31 @@
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
+    /* padding: 1px;*/
+    overflow: hidden;
 }
 
 .frame {
     width: 500px;
     border: 50px solid black;
+    margin: 20px auto;
+    padding: 50px;
+}
+
+.one {
+    width: 425px;
+    height: 150px;
+    background-color: #efb762;
+    margin: 20px auto;
+}
+
+.two {
+    margin: auto;
+    background-color: #8f0401;
+    width: 475px;
+    height: 200px;
+}
+.three {
+    width: 91%;
+    height: 28%;
 }
