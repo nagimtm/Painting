@@ -25,8 +25,12 @@
     background-color: #8f0401;
     width: 475px;
     height: 200px;
+    margin: 0 auto 20px auto;
 }
 .three {
     width: 91%;
     height: 28%;
+    background-color: #b20403;
+    margin: auto;
+
 }
